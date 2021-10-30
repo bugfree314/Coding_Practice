@@ -1,2 +1,2 @@
 # Coding_Practice
-## properly work on MacOS
+## properly worked on MacOS
